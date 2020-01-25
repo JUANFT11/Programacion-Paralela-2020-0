@@ -1,3 +1,1 @@
-HOLA MUNDO
-ESTE ES EL README
-
+Codigo fuente de los proyectos del curso de Programacion Paralela 
